@@ -1,12 +1,13 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kgutier/DEW_test/master)
 
-A Binder-compatible repo with an `environment.yml` file.
+A Binder-compatible repo with an `environment.yml` file to run the DEW_test exercise
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
+https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kgutier/DEW_test/master?labpath=https%3A%2F%2Fgithub.com%2Fkgutier%2FDEW_test%2Fblob%2Fmaster%2FDEW_excercise.ipynb
+
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
